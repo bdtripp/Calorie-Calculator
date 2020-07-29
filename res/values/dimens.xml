@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="large_text_size">20sp</dimen>
+    <dimen name="activity_padding">20dp</dimen>
+    <dimen name="left_column_widgets">20dp</dimen>
+    <dimen name="right_column_widgets">150dp</dimen>
+    <dimen name="edit_text_width">3</dimen>
+    <dimen name="small_space">10dp</dimen>
+    <dimen name="medium_space">40dp</dimen>
+</resources>

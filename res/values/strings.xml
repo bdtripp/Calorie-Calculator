@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calorie Calculator</string>
+    <string name="weight_label">Weight(lbs)</string>
+    <string name="met_value_label">MET Value</string>
+    <string name="burn_rate_label">Calorie Burn Rate:</string>
+    <string name="weight_amount">0.00</string>
+    <string name="met_value">0.0</string>
+    <string name="calorie_burn_rate">0.00</string>
+    <string name="calories_per_hour_label">Calories/hr</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="metDescription">MET Values can be found at: https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories</string>
+    <string name="missingWeight">Please enter a weight!</string>
+    <string name="missingMET">Please enter a MET Value!</string>
+    <string name="invalidWeight">Weight must be less than 1400 lbs</string>
+    <string name="invalidMET">MET Value must be between 0.9 and 23.0</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="version">Version 2018.11.05</string>
+    <string name="creator">Created by Brian Tripp</string>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Calorías</string>
+    <string name="weight_label">Peso(lbs)</string>
+    <string name="met_value_label">Cantidad de MET</string>
+    <string name="burn_rate_label">Tasa de Quema:</string>
+    <string name="weight_amount">0.00</string>
+    <string name="met_value">0.0</string>
+    <string name="calorie_burn_rate">0.00</string>
+    <string name="calories_per_hour_label">Calorías/hora</string>
+    <string name="calculate_button">Calcular</string>
+    <string name="metDescription">Las cantidades de MET se pueden encontrar en: https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories</string>
+    <string name="missingWeight">Por favor, introduzca un peso!</string>
+    <string name="missingMET">Por favor, introduzca un valor MET!</string>
+    <string name="invalidWeight">El peso debe ser inferior a 1400 libras</string>
+    <string name="invalidMET">El valor MET debe estar entre 0.9 y 23.0</string>
+</resources>
