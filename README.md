@@ -1,7 +1,7 @@
 # Calorie Calculator
 Calorie Calculator is an Android app that takes a MET value and the user's weight and outputs the calorie burn rate. 
 
-Note: MET values are used to measure the intentsity of various physical activities. A list of MET values can be found at https://golf.procon.org/met-values-for-800-activities/.
+Note: MET values are used to measure the intentsity of various physical activities. A list of MET values can be found at https://sites.google.com/site/compendiumofphysicalactivities/Activity-Categories.
 
 ## How to Install
 ### Note: App available for Android only
